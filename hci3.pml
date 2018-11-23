@@ -5,7 +5,12 @@
         <BehaviorDescription name="behavior" src="behavior_1" xar="behavior.xar" />
     </BehaviorDescriptions>
     <Dialogs />
-    <Resources />
+    <Resources>
+        <File name="" src=".gitattributes" />
+        <File name="flowchartHCI3" src="flowchartHCI3.png" />
+        <File name="flowchartHCI3_white" src="flowchartHCI3_white.png" />
+        <File name="choice_sentences" src="behavior_1/Aldebaran/choice_sentences.xml" />
+    </Resources>
     <Topics />
     <IgnoredPaths />
     <Translations auto-fill="en_US">

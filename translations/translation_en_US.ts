@@ -17,10 +17,15 @@
             <translation type="vanished">Hello</translation>
         </message>
         <message>
-            <location filename="behavior_1/behavior.xar" line="0"/>
             <source>I restarted</source>
             <comment>Text</comment>
-            <translation type="unfinished">I restarted</translation>
+            <translation type="obsolete">I restarted</translation>
+        </message>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Hi</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Hi</translation>
         </message>
     </context>
     <context>
@@ -30,6 +35,38 @@
             <source>Looking for faces</source>
             <comment>Text</comment>
             <translation type="unfinished">Looking for faces</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Say (2)</name>
+        <message>
+            <source>Hello</source>
+            <comment>Text</comment>
+            <translation type="vanished">Hello</translation>
+        </message>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>It's all gonna be fine</source>
+            <comment>Text</comment>
+            <translation type="unfinished">It's all gonna be fine</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Say (3)</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>watch out going that way</source>
+            <comment>Text</comment>
+            <translation type="unfinished">watch out going that way</translation>
+        </message>
+    </context>
+    <context>
+        <name>behavior_1/behavior.xar:/Say (4)</name>
+        <message>
+            <location filename="behavior_1/behavior.xar" line="0"/>
+            <source>Do you need any help?</source>
+            <comment>Text</comment>
+            <translation type="unfinished">Do you need any help?</translation>
         </message>
     </context>
     <context>
