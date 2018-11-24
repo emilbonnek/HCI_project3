@@ -10,6 +10,8 @@
         <File name="flowchartHCI3" src="flowchartHCI3.png" />
         <File name="flowchartHCI3_white" src="flowchartHCI3_white.png" />
         <File name="choice_sentences" src="behavior_1/Aldebaran/choice_sentences.xml" />
+        <File name="cat" src="html/vids/cat.mp4" />
+        <File name="options" src="html/imgs/options.jpg" />
     </Resources>
     <Topics />
     <IgnoredPaths />
