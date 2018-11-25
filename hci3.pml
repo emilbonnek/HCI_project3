@@ -12,6 +12,7 @@
         <File name="choice_sentences" src="behavior_1/Aldebaran/choice_sentences.xml" />
         <File name="cat" src="html/vids/cat.mp4" />
         <File name="options" src="html/imgs/options.jpg" />
+        <File name="gym" src="html/imgs/gym.jpg" />
     </Resources>
     <Topics />
     <IgnoredPaths />
